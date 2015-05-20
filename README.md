@@ -9,6 +9,7 @@ This project serves to demonstrate the collection and cleaning of a tidy data se
 A full description of the data used in this project can be found at The UCI Machine Learning Repository
 
 The source data for this project can be found here.
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 Once you have obtained and unzipped the source files, 
 you will need to make one modification to the R file before you can process the data.
